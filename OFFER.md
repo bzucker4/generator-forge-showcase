@@ -8,7 +8,7 @@ You want a Next.js + Supabase + Stripe starter that already has a generator fact
 
 - Live demo: https://generator-forge.vercel.app
 - Wedding toast sample: https://generator-forge.vercel.app/generators/wedding-toast
-- Source: https://dbtaametrics83.gumroad.com/l/adxarv
+- Source: https://atlascreative0.gumroad.com/l/generatorforge
 - Price: $99 once. Launch code LAUNCH20 is $79 if the demo still shows it.
 
 You get a personal and commercial license to ship your own niche apps. You do not get the right to resell this starter as a competing kit.

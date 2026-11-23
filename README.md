@@ -11,16 +11,16 @@
 <p align="center">
   <a href="https://generator-forge.vercel.app"><img src="https://img.shields.io/badge/Live%20demo-generator--forge.vercel.app-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Live demo" /></a>
   &nbsp;
-  <a href="https://dbtaametrics83.gumroad.com/l/adxarv"><img src="https://img.shields.io/badge/Get%20the%20source-%2499%20on%20Gumroad-FF90E8?style=for-the-badge&logo=gumroad&logoColor=black" alt="Get the source on Gumroad ($99)" /></a>
+  <a href="https://atlascreative0.gumroad.com/l/generatorforge"><img src="https://img.shields.io/badge/Get%20the%20source-%2499%20on%20Gumroad-FF90E8?style=for-the-badge&logo=gumroad&logoColor=black" alt="Get the source on Gumroad ($99)" /></a>
 </p>
 
 <p align="center">
   <a href="https://generator-forge.vercel.app">Live demo</a> ·
-  <a href="https://dbtaametrics83.gumroad.com/l/adxarv">Buy on Gumroad ($99, one-time)</a> ·
+  <a href="https://atlascreative0.gumroad.com/l/generatorforge">Buy on Gumroad ($99, one-time)</a> ·
   <a href="#faq">FAQ</a>
 </p>
 
-> **Heads up:** this repository is a public showcase (screenshots, feature overview, and docs summary). It does **not** contain the application source. The full codebase is delivered via [Gumroad](https://dbtaametrics83.gumroad.com/l/adxarv).
+> **Heads up:** this repository is a public showcase (screenshots, feature overview, and docs summary). It does **not** contain the application source. The full codebase is delivered via [Gumroad](https://atlascreative0.gumroad.com/l/generatorforge).
 
 ---
 
@@ -117,7 +117,7 @@ The real templates, types, registry, and API route come with the purchased sourc
 <details>
 <summary><strong>Is the source code in this repo?</strong></summary>
 
-No. This repo is only a showcase. The complete source is delivered when you buy on [Gumroad](https://dbtaametrics83.gumroad.com/l/adxarv).
+No. This repo is only a showcase. The complete source is delivered when you buy on [Gumroad](https://atlascreative0.gumroad.com/l/generatorforge).
 </details>
 
 <details>
@@ -167,5 +167,5 @@ If the project won't install or run after you follow the Quick Start, contact su
 <p align="center">
   <a href="https://generator-forge.vercel.app"><strong>See the live demo →</strong></a>
   &nbsp;&nbsp;|&nbsp;&nbsp;
-  <a href="https://dbtaametrics83.gumroad.com/l/adxarv"><strong>Get the full source on Gumroad →</strong></a>
+  <a href="https://atlascreative0.gumroad.com/l/generatorforge"><strong>Get the full source on Gumroad →</strong></a>
 </p>
